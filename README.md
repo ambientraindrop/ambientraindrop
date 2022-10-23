@@ -1,1 +1,3 @@
-Creator of the modern [Wii Homebrew Guide!](https://connorisirish.github.io/wiihomebrew/)
+# About Me #
+
+Creator of the modern [Wii Homebrew guide](https://connorisirish.github.io/wiihomebrew/)!
