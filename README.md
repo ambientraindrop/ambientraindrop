@@ -1,4 +1,4 @@
-# About Me #
+# About Me! #
 
 Started learning to code at *6 years old!* 🌹
 
